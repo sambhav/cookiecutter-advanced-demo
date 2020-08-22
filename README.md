@@ -1,6 +1,6 @@
 ## Advanced context modification for cookiecutter.
 
-![](https://img.shields.io/github/stars/samj1912/cookiecutter-advanced-demo?label=Star%20this%20repo&style=social)
+[![](https://img.shields.io/github/stars/samj1912/cookiecutter-advanced-demo?label=Star%20this%20repo&style=social)](https://github.com/samj1912/cookiecutter-advanced-demo/stargazers)
 
 This repo is an advanced example of a cookiecutter that can modify cookiecutter's
 context values from hooks. Read the pre_gen_project.py for examples and a demo on how to modify context.
